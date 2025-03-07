@@ -25,12 +25,6 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/twitter-clone-api.git
-cd twitter-clone-api
-Install dependencies
-bash
-Copy
-Edit
 npm install
 Initialize the Database
 Create the SQLite database using the schema provided:
